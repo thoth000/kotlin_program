@@ -1,6 +1,7 @@
-//learn a hierarchy of classes(abstract, override...).
-
 /**
+* learn a hierarchy of classes.
+* (abstract, override, with, super)
+* 
 * Program that implements classes for different kinds of dwellings.
 * Shows how to:
 * Create class hierarchy, variables and functions with inheritance,
